@@ -1,0 +1,13 @@
+.register-button {
+  background-color: #5f03ac;
+  width: 100%;
+  color: #fff;
+  border: none;
+  border-radius: 0;
+  font-weight: 600;
+}
+
+.signup__text {
+  padding-right: 50%;
+  transform: translateX(10%);
+}

@@ -1,0 +1,49 @@
+p {
+  font-family: "Suez One", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #6101b4;
+  display: inline-block;
+}
+
+.login-button,
+.signup-button {
+  width: 120px;
+  border-radius: 0;
+}
+
+.button-container {
+  /* margin-top: 5px; */
+}
+
+.login-button {
+  background-color: #5f03ac;
+  color: #fff;
+  border: none;
+  border-radius: 0;
+  font-weight: 600;
+}
+
+.signup-button {
+  background-color: white;
+  color: #5f03ac;
+  border-color: #5f03ac;
+  font-weight: 600;
+}
+
+.social {
+  display: inline-block;
+  font-size: 24px;
+  margin-top: 50px;
+}
+
+.social p {
+  font-family: "Suez One", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #6101b4;
+}
+
+.social a {
+  color: gray;
+}
